@@ -6,7 +6,7 @@ const Testimonial = () => {
   return (
     <div className="work-section-wrapper">
       <div className="work-section-top">
-        <p className="primary-subheading">Testimonial</p>
+        <p className="primary-subheading">Feedback</p>
         <h1 className="primary-heading">What They Are Saying!🎗️ </h1>
         <p className="primary-text">
           Hear from our happy customers! See how our service has made ordering
