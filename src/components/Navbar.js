@@ -49,7 +49,7 @@ const Navbar = () => {
       <div className="navbar-links-container">
         <a href="">Home</a>
         <a href="">About</a>
-        <a href="">Testimonials</a>
+        <a href="">Feedback</a>
         <a href="">Contact</a>
         <a href="">
           <BsCart2 className="navbar-cart-icon" />
