@@ -29,7 +29,7 @@ const Navbar = () => {
       icon: <InfoIcon />,
     },
     {
-      text: "Testimonials",
+      text: "Feedback",
       icon: <CommentRoundedIcon />,
     },
     {
